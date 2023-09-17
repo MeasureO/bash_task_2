@@ -1,0 +1,4 @@
+vim history_of_vim.txt
+ls -l
+shasum -a 256 history_of_vim.txt
+#по сути это 2 раза
